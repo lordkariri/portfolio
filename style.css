@@ -19,7 +19,7 @@ img {
 }
 body {
 	min-height: 100vh;
-	background: url('/Assets/bg.png') no-repeat center center fixed;
+	background: url('bg.png') no-repeat center center fixed;
 	background-size: cover;
 	color: var(--text-color);
 	position: relative;
